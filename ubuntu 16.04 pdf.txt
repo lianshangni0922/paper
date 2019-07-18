@@ -1,0 +1,12 @@
+PDF阅读器
+ubuntu 16.04
+sudo apt-get install okular
+
+
+安装完后,安装中文支持包
+
+
+sudo apt-get install kde-l10n-zhcn
+
+
+
